@@ -1,2 +1,0 @@
-# otp.py
-Otp panel
